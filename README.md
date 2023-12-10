@@ -49,3 +49,20 @@ Ensure you have the necessary dependencies installed by running:
 
 ```bash
 pip install -r requirements.txt
+```
+## Contributing
+
+We welcome contributions from the community! If you'd like to contribute to the project, please follow these guidelines:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix: `git checkout -b feature-name`.
+3. Make your changes and commit them: `git commit -m 'Description of changes'`.
+4. Push to your fork: `git push origin feature-name`.
+5. Open a pull request, explaining the purpose and changes in detail.
+
+Thank you for your contributions!
+
+## License
+
+This project is licensed under the [MIT License](https://github.com/harishngt/Mental_Health_Fitness_Tracker/blob/main/LICENSE). See the [LICENSE](https://github.com/harishngt/Mental_Health_Fitness_Tracker/blob/main/LICENSE) file for details.
+
