@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code and analysis for a Mental Health Fitness Tracker using Machine Learning techniques. The project focuses on exploring and analyzing a dataset related to mental health, performing statistical tests, and implementing various supervised and unsupervised learning algorithms.
+This repository contains the code and analysis for a Mental Health Fitness Tracker which uses Machine Learning techniques. The project focuses on exploring and analyzing a dataset related to mental health, performing statistical tests, and implementing various supervised and unsupervised learning algorithms.
 
 ## Dataset
 
